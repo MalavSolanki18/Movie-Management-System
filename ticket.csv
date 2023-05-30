@@ -1,0 +1,10 @@
+booking_id,name,email,time,movie,seats
+,,,,
+,,,,,
+8530,Malav Solanki,malav.solanki2152@gmail.com,20:00,VIKRAM - TAMIL,"['A1', 'B2']"
+8064,Rina Solanki,malavgostudy@gmail.com,20:00,SPIDER-MAN : NO WAY HOME - ENGLISH,"['A1', 'B2']"
+5442,Bansari Solanki,bansarimehulkumarsolanki@gmail.com,18:00,JURASSIC WORLD DOMINION - ENGLISH,['C4']
+2018,Kashyap Gohel,kashyapg@gmail.com,17:00,VIKRAM - TAMIL,"['D3', 'E7']"
+2541,Tony Stark,tonystark@gmail.com,17:00,SPIDER-MAN : NO WAY HOME - ENGLISH,"['A9', 'B9']"
+3104,Manav Prajapati,manav@gmail.com,17:00,SPIDER-MAN : NO WAY HOME - ENGLISH,"['A4', 'B4', 'C8']"
+8350,Malav Solanki,malav@gmail.com,17:00,SPIDER-MAN : NO WAY HOME - ENGLISH,"['A5', 'B21']"
